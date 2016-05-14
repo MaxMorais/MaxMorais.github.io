@@ -1,0 +1,8 @@
+excerpt_separator: ""
+pygments: true
+markdown: kramdown
+url: http://MaxMorais.github.io
+title: Maxwell Morais
+tagline: A log of everyday life
+description: Awesome things, ideas and business inside my work!
+paginate: 5
