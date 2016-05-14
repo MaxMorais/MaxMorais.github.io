@@ -32,6 +32,6 @@ How you can see, the comission is right computed for the **Sales Person** in the
 
 ![Computed Comission](//www.diigo.com/file/image/eoaccapzdbeqosabpzccssppeb/Cliente+Padr%C3%A3o+-+SO-00002.jpg)
 
-Don't matter if the Comission is based on the _Transaction Amount_, or if it is a _Fixed Value_, this customization ever will lookup to the right comission.
+Don't matter if the Comission is based on the _Transaction Amount_, or if it is a _Fixed Value_, this customization ever will lookup to the right comission and store in the _Incentives_ field, the other fields are filled just to continue using the standard behavior of **ERPNext**.
 
-The rule to determine the hierarchy of the comission is based from the **Group** (Customer Group or Item Group) to the *Party or Item* how more high the level of record that the comission is attached , less important is this! So, a comission attached to a **Item** overrides a comission to his parent group! 
+The rule to determine the hierarchy of the comission is based from the **Group** (Customer Group or Item Group) to the *Party or Item* how more high the level of record that the comission is attached , less important is this! So, a comission attached to a **Item** overrides a comission to his parent group!
