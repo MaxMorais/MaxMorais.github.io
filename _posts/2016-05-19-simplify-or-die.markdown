@@ -25,7 +25,7 @@ In my basic theory, I observed that:
 
 Yes, this is a truth, being active in the process of development and customization of *ERPNext*, I understood that the code, is not the best way of represent the real world, this is because the code is inflexible! This is the nature of the code,  of a computer, of a program! You never can expect that a ERP made in India, will understand how the things are in Brazil, but you ever expect that a calculator returns 2 if you enter 1+1!
 
-In fact __Accounting__ is __accounting__ everywhere, but the real words, affects directly the accounting! Since __Accouting__ is a [*Applied Social Science*](https://irresistibledisgrace.wordpress.com/2010/01/13/accounting-as-social-science/), it will be directly affected by the society!
+In fact __Accounting__ is __accounting__ everywhere, but the real world affects directly the accounting! Since __Accouting__ is a [*Applied Social Science*](https://irresistibledisgrace.wordpress.com/2010/01/13/accounting-as-social-science/), it will be directly affected by the society!
 
 # 2 - Code affects the real world, as the same way that the real world affects the code!
 
