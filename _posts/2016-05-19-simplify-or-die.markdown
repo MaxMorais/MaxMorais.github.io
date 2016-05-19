@@ -29,19 +29,17 @@ In fact __Accounting__ is __accounting__ everywhere, but the real words, affects
 
 # 2 - Code affects the real world, as the same way that the real world affects the code!
 
-Do you can imagine a world without Internet, Google, Youtube, Wikipedia? If the code never existed, the digital revolution never will occurrs, so in the same maner that we try to represent the real world in lines of code, these lines of code, will rule our lives in the real world - That's is a paradox
+Do you can imagine a world without Internet, Google, Youtube, Wikipedia? If the code had never existed, the digital revolution never would have happened, so in the same manner that we try to represent the real world in lines of code, these lines of code, are current in our lives in the real world - This is recursion issue!
 
 # 3 - The nature of inflexibility of the code is in the bit!
 
-How do you know, computers are managed by  sets of bits, each bit only can represent one of two states (on-off, true-false, 0-1 etc) and daily we talk about things that _Maybe_, _Will it_, _Yes, will!_ , _No will_, _Never will_, _Sometimes will_, _Everytime will_, etc . Each of these sentences have a contextual weight, that is impossible to express in a computer due the nature of the math and for the fact that the weight change for each person in each phase of life or from one society to another!
+How do you know, computers are ruled by  sets of bits, each bit only can represent one of two states (on-off, true-false, 0-1 etc) and daily we talk about things that _Maybe_, _Will it_, _Yes, will!_ , _No will_, _Never will_, _Sometimes will_, _Everytime will_, etc . Each of these sentences have a contextual weight, that is impossible to represent in a computer due the nature of the math and for the fact that the weight change for each person, in each phase of life or from one society to another!
 
 # 4 - I never will automate the code!
 
-Another truth, that is a complement of the last observations! Due the code is inflexible, and the real world change on every minute, we never will be able of automate the code to generate complex programs that are able to do a full representation the real world! Because the real world change the code, and the code rule the real world!
+Another truth, that is a complement of the last observations! Due the code is inflexible, and the real world change on every minute, we never will be able of automate the code to generate complex programs that are able to do a full representation the real world! Because the real world change the code, and the code will change the real world!
 
 ---------------
-
-After these explanations, the unique workaround that remains is that I need stop of represent behaviors in code!
 
 A code can be segmented by:
 
