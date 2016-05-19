@@ -1,6 +1,6 @@
 ---
 published: true
-title: Simplify or Die
+title: Simplify or Die Retrying
 layout: post
 ---
 Have some years that I started with ERPNext, I worked in smalls, mediuns and now in a biggest project of customization of ERPNext, and on each new project, I fell that the things should be simplified!
