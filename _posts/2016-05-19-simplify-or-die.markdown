@@ -9,7 +9,7 @@ The major issue is: The actual cicle of development is not able to scale! Code r
 
 Is very hard turn ideas in a real product, and in the major of times, the customer is not sure about what him really need! And the most important, code is not able of do everything! _Alan Turing_ describe what is computable and what is not, so basically, we have goals that are unreacheable by code!
 
-Is because these issues, and the fact that code, takes too much of my time, that I started developing a project to save my professional life! In the same article that Alan Turing describe what is computable, him defines too the basis of the computers, that is the base of our tecnology! Following these basis, I completely refactored **CoreFlow**
+Is because these issues, and the fact that code, takes too much of my time, that I started developing a project to save my professional life!
 
 I started this project a year ago, I touch in the code too many times, without success to go ahead, and XKCD, have a nice visual description about why:
 
