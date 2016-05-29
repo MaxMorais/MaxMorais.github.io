@@ -16,7 +16,7 @@ In the first table was a group with around 15 persons (40% of the capacity of th
 
 Since we reached at this place, the group in the first table, was not consuming anything, just talking about the life, the childrens, the job, some one making some jokes etc.
 
-And some persons leaving the queue, because the time and the ungry!
+And some persons leaving the queue, because the time and the hunger!
 
 The time still going, with we in the queue, taking a look into this flow, the persons talking in the first table, some persons joining, waiting and leaving the queue! We are waiting for 2 hours, to get a table free for us. But while we are in the queue, we count around 40 persons leaving the queue, because has no free places to they dinner in this place.
 
